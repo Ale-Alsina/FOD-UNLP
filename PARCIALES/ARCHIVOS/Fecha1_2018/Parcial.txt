@@ -1,3 +1,4 @@
+* PARCIAL CON REGISTROS DE LONGITUD FIJA
 * El archivo se encuentra ordenado por los siguientes criterios:
 *   => año =>mes =>dia =>idUsuario.
 * Se debe realizar un procedimiento que genere un informe en pantalla, para ello se indicara el
