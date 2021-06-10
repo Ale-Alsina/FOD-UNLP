@@ -1,7 +1,7 @@
 * El archivo se encuentra ordenado por los siguientes criterios:
 *   => año =>mes =>dia =>idUsuario.
 * Se debe realizar un procedimiento que genere un informe en pantalla, para ello se indicara el
-* ano calendario, sobre el cual debe realizar el informe el mismo debe respetar el formato
+* año calendario, sobre el cual debe realizar el informe el mismo debe respetar el formato
 * mostrado a continuacion:
 *   AÑO: ---
 *      MES:1
