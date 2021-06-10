@@ -1,0 +1,43 @@
+* El archivo se encuentra ordenado por los siguientes criterios:
+*   => año =>mes =>dia =>idUsuario.
+* Se debe realizar un procedimiento que genere un informe en pantalla, para ello se indicara el
+* ano calendario, sobre el cual debe realizar el informe el mismo debe respetar el formato
+* mostrado a continuacion:
+*   AÑO: ---
+*      MES:1
+*         DIA:1
+*            idUsuario: 1 Tiempo total de acceso en el dia 1 mes 1 = ----
+*            ---    ---    ---     ---    ---    ---   ---     ---     ---
+*            idUsuario: N Tiempo total de acceso en el dia 1 mes 1 = ----
+*         TIEMPO TOTAL DE ACCESOS DIA 1, MES 1: ---
+*         ---    ---    ---     ---    ---    ---   ---    ---    ---  ---
+*         DIA:N
+*            idUsuario: 1 Tiempo total de acceso en el dia N mes 1 = ----
+*            ---    ---    ---     ---    ---    ---   ---     ---     ---
+*            idUsuario: N Tiempo total de acceso en el dia N mes 1 = ----
+*         TIEMPO TOTAL DE ACCESOS DIA N, MES 1: ---
+*     TOTAL TIEMPO DE ACCESO MES 1: ---
+*     ---    ---    ---     ---    ---       ---   ---    ---    ---  ---
+*     ---    ---    ---     ---    ---       ---   ---    ---    ---  ---
+*     ---    ---    ---     ---    ---       ---   ---    ---    ---  ---
+*     MES:12
+*        DIA:1
+*            idUsuario: 1 Tiempo total de acceso en el dia 1 mes 12 = ----
+*            ---    ---    ---     ---    ---    ---   ---     ---     ---
+*            idUsuario: N Tiempo total de acceso en el dia 1 mes 12 = ----
+*         TIEMPO TOTAL DE ACCESOS DIA 1, MES 12: ---
+*         ---    ---    ---     ---    ---    ---   ---    ---    ---  ---
+*        DIA:N
+*            idUsuario: 1 Tiempo total de acceso en el dia N mes 12 = ----
+*            ---    ---    ---     ---    ---    ---   ---     ---     ---
+*            idUsuario: N Tiempo total de acceso en el dia N mes 12 = ----
+*         TIEMPO TOTAL DE ACCESOS DIA N, MES 12: ---
+*     TOTAL TIEMPO DE ACCESO MES 12: ---
+*   TOTAL TIEMPO DE ACCESO AÑO ---
+*
+* Se debera tener las siguientes aclaraciones:
+*   - El año sobre el cual se realizara el informe de accesos debe leerse desde teclamo.
+*   - El año puede no existir en el archivo, en tal caso, debe onformar "Año No Encontrado".
+*   - Debe definir las estructuras de datos necesarias.
+*   - El recorrido del archivo debe realizarce una unica vez, procesando solo la info necesaria.
+}
