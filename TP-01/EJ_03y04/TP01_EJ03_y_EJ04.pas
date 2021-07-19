@@ -13,14 +13,14 @@ type
 
   aEmp = file of rEmp;
 
-  {$i ./libreria.prc} // lib secundaria cosas  =>(codigo soporte a la resolucion -NO EVALUA-)
+  {$i ./libreria.prc} // lib secundaria cosas  =>(codigo soporte a la resolucion -NO EVALUA-) // debe descargarse mismo directorio
 
 
 //================================= PUNTO A carga en el archivo ==================================\\
 procedure leerEmp (var e:rEmp);
 begin
+  writeln('____________________________________________');
   with e do begin
-    writeln('____________________________________________');
     write('Ingrese Apellido del empleado: ');  readln(ape);
     if ( ape <> FIN )then begin
       write('ingrese su "Nombre": ');          readln(nom);
@@ -30,6 +30,7 @@ begin
       end;
   end;
 end;
+
 procedure crearArchivo_teclado (var archivo: aEmp);
 var emp:rEmp;
 begin
@@ -48,13 +49,13 @@ begin
   assign(archivo,nomArchivo);
   rewrite(archivo);
   {*                       MENU                         *}
-  {*} m.a:='Crear archivo Binario c/datos desde teclado';
-  {*} m.b:='Crear archivo Binario auto desde un archivo';
-  {*} m.ini:=' OPCIONES DE CARGA ';
-  {*} m.fin:=' Pulse "C" o "c" para Continuar...           ';
-  {*} m.c:=' '; m.d:=' '; m.e:=' '; m.f:=' ';m.g:=' ';m.h:=' '; //opciones rest s/validez
+  {*}m.a:='Crear archivo Binario c/datos desde teclado';
+  {*}m.b:='Crear archivo Binario auto desde un archivo';
+  {*}m.ini:=' OPCIONES DE CARGA ';
+  {*}m.fin:=' Pulse "C" o "c" para Continuar...           ';
+  {*}m.c:=' '; m.d:=' '; m.e:=' '; m.f:=' ';m.g:=' ';m.h:=' '; //opciones rest s/validez
   repeat
-     menuOpciones(op,m,2);     // op=opcion elegida, m=todos los param, 2=cant total de param.
+  {*}menuOpciones(op,m,2);     // op=opcion elegida, m=todos los param, 2=cant total de param.
      case op of
        '1': begin
              crearArchivo_teclado(archivo);
@@ -66,11 +67,8 @@ begin
              writeln('Carga del archivo binario "',nomArchivo,'" c/reg empleados EXITOSA !!!...');
              op:='c';
             end;
-       else begin
-        if ((op <> 'c')and(op <> 'c'))then write('??? - Opcion no valida...'); delay(800);
-        end;
+       else begin if ((op <> 'c')and(op <> 'c'))then write('??? - Opcion no valida...'); delay(800); end;
      end;
-
   until(op = 'c')or(op = 'C');
   close(archivo);
 end;
@@ -79,9 +77,8 @@ end;
 //i-)Listar en pantalla los datos de emp q tengan un nom o ape determinado
 procedure buscar_y_listar_NomApe (var archivo:aEmp);
   function encontro(aBucar:string; reg:rEmp):boolean;
-  begin
-    encontro:=((pos(aBucar, reg.nom)>0) or (pos(aBucar, reg.ape)>0));
-  end;
+  begin encontro:=((pos(aBucar, reg.nom)>0) or (pos(aBucar, reg.ape)>0)); end;
+  
 var x:string; e:rEmp;
 begin
   reset(archivo);
