@@ -1,0 +1,23 @@
+TP01- Ej 3 y 4 - Archivos de Longitud Fija
+3. Realizar un programa que presente un menú con opciones para:
+   -a. Crear archivo de reg no ordenados de empleados y completarlo c/datos ingr desde teclado.
+       De cada empleado se registra: número de
+         ->empleado,
+         ->apellido,
+         ->nombre,
+         ->edad
+         ->y DNI (Algunos empleados se ingresan con DNI 00)
+       La carga finaliza cuando se ingresa el String ‘fin’ como apellido.
+   -b. Abrir el archivo anteriormente generado y
+         i. Listar en pantalla los datos de empleados que tengan un nomb o ape determinado.
+        ii. Listar en pantalla los empleados de a uno por línea.
+       iii. Listar en pantalla empleados mayores de 60 años, próximos a jubilarse.
+  NOTA: El nombre del archivo a crear o utilizar debe ser proporc. x el usuario una única vez.
+
+4. Agregar al menú del programa del ejercicio 3, opciones para:
+   -a. Añadir una o más empleados al final del archivo con sus datos ingresados x teclado.
+   -b. Modificar edad a una o más empleados.
+   -c. Exportar el contenido del archivo a un archivo de texto llamado “empleados.txt”.
+   -d. Expr a 1 arch texto llamado:“faltaDNI.txt”, los emp q no tengan cargado DNI (DNI en 00).
+   
+ NOTA: Las búsquedas deben realizarse por número de empleado.
