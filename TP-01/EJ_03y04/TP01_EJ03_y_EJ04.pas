@@ -213,7 +213,7 @@ begin
   {**} m.ini:='MENU PRINCIPAL  ';
   {**} m.fin:=' Pulse "f" o "F" para Finalizar...                           ';
   repeat
-   menuOpciones(op,m,8);     // op=opcion elegida, m=todos los param, 2=cant total de param.
+   menuOpciones(op,m,8);     // op=opcion elegida, m=todos los param, 8=cant total de param.
    writeln('');
     case op of
       '1': begin
