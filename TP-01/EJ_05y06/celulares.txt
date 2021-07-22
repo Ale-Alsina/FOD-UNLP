@@ -1,0 +1,120 @@
+9943 12838.30 LG
+85 7 6.01 pulgadas Full Optic Display AMOLED con soporte para sRGB y DCI-P3. Cristal Corning Gorilla Glass 5
+L35 Dual Chip
+2608 49231.59 Samsung
+26 9 Aspect ratio de 18:9. resolución FullHD 1.080 x 2.160 píxeles. 401 ppi. 80.5% de ocupación del frontal
+Galaxy S4 Mini Duos
+5096 53038.17 LG
+90 8 Qualcomm Snapdragon 835 Octa-core 10 nm a 2.45 GHz
+G2 MINI DUAL
+8764 19766.37 Sony
+ 6 8 6 u 8 GB LPDDR4X
+Xperia T2 Ultra Dual
+9457 67004.72 LG
+93 7 Android 7.1.1 Nougat bajo OxygenOS 4.7.0
+G Flex2
+3684 39393.71 Samsung
+98 9 3.300 mAh con carga rápida Dash Charge
+GALAXY NOT 3
+6594 95929.45 LG
+ 9 1  LTE Cat. 13. Bluetooth 5.0 con soporte aptX & aptXHD. GPS. GLONASS. Galileo. Wi-Fi MIMO 2×2.
+OPTIMUS G PRO
+6896 59522.36 LG
+82 5 Trasera dual de 16 f/1.7 Sony IMX 398 y + 20 f/1.7 mpx Sony IMX 376K con Dual Flash LED. Frontal de 16 megapíxeles Sony IMX371 f/2.0
+G2 Lite Dual
+5703 41756.58 Samsung
+27 1  "4.8 Pulgadas. tipo de pantalla TFT. Multitáctil 480 x 1024 Pixels. Acelerómetro.sensor de giro en 6 ejes.Acer UI 4.2táctiles"
+Galaxy Win 2 Duos TV Dual
+7910 82450.81 AOC
+ 1 7 4.3 Pulgadas pantalla IPS LCD Multitáctil.16 millones Colores.Resolución 540 x 960 Pixels. Acelerómetro
+E41
+6848 85208.83 LG
+94 5 4.3 Pulgadas pantalla IPS LCD Multitáctil.16 millones Colores.Resolución 720 x 1280 Pixels. 342 ppi. Acelerómetro
+L70 Dual
+8268 98927.04 Samsung
+91 1  4 Pulgadas pantalla TN Multitáctil Resolución 480 x 800 Pixels
+Galaxy Win 2 Duos TV Dual
+1734 79250.89 Motorola
+61 7 6.01 pulgadas Full Optic Display AMOLED con soporte para sRGB y DCI-P3. Cristal Corning Gorilla Glass 5
+Moto X 4G
+7531 49997.10 Samsung
+35 6 Aspect ratio de 18:9. resolución FullHD 1.080 x 2.160 píxeles. 401 ppi. 80.5% de ocupación del frontal
+Galaxy S5 Duos
+8476 29891.82 Motorola
+31 9 Qualcomm Snapdragon 835 Octa-core 10 nm a 2.45 GHz
+Moto E
+7458 69715.63 LG
+86 7 6 u 8 GB LPDDR4X
+L80 DUAL
+7978 25673.60 Motorola
+46 6 Android 7.1.1 Nougat bajo OxygenOS 4.7.0
+Moto X 4G
+9296 42627.37 LG
+97 9 3.300 mAh con carga rápida Dash Charge
+L65 Dual
+6516 71930.35 LG
+56 1  LTE Cat. 13. Bluetooth 5.0 con soporte aptX & aptXHD. GPS. GLONASS. Galileo. Wi-Fi MIMO 2×2.
+L50
+3010 49815.40 Sony
+48 6 Trasera dual de 16 f/1.7 Sony IMX 398 y + 20 f/1.7 mpx Sony IMX 376K con Dual Flash LED. Frontal de 16 megapíxeles Sony IMX371 f/2.0
+Xperia E4 Dual  
+9309 78279.84 Samsung
+91 7 "4.8 Pulgadas. tipo de pantalla TFT. Multitáctil 480 x 1024 Pixels. Acelerómetro.sensor de giro en 6 ejes.Acer UI 4.2táctiles"
+Galaxy Express
+7465 27510.01 Samsung 
+90 9 4.3 Pulgadas pantalla IPS LCD Multitáctil.16 millones Colores.Resolución 540 x 960 Pixels. Acelerómetro
+Galaxy Pocket 2 Duos
+7627 31369.76 LG
+31 7 4.3 Pulgadas pantalla IPS LCD Multitáctil.16 millones Colores.Resolución 720 x 1280 Pixels. 342 ppi. Acelerómetro
+G2 MINI DUAL
+9884 62230.60 Sony
+34 1  4 Pulgadas pantalla TN Multitáctil Resolución 480 x 800 Pixels
+Xperia T2 Ultra Dual
+8243 46109.60 LG
+22 1  6.01 pulgadas Full Optic Display AMOLED con soporte para sRGB y DCI-P3. Cristal Corning Gorilla Glass 5
+L65 Dual
+7807 61245.55 AOC
+95 5 Qualcomm Snapdragon 835 Octa-core 10 nm a 2.45 GHz
+E41
+2515 58689.41 LG
+45 9 3.300 mAh con carga rápida Dash Charge
+L20 DUAL
+9614 88705.40 Acer
+82 8 Trasera dual de 16 f/1.7 Sony IMX 398 y + 20 f/1.7 mpx Sony IMX 376K con Dual Flash LED. Frontal de 16 megapíxeles Sony IMX371 f/2.0
+Acer Liquid C1
+9550 13716.22 Samsung
+41 8 4.3 Pulgadas pantalla IPS LCD Multitáctil.16 millones Colores.Resolución 540 x 960 Pixels. Acelerómetro
+GALAXY
+1778 37218.72 LG
+37 5 4 Pulgadas pantalla TN Multitáctil Resolución 480 x 800 Pixels
+OPTMUS L3 II
+6581 11086.07 LG
+69 6 Qualcomm Snapdragon 835 Octa-core 10 nm a 2.45 GHz
+OPTIMUS L5 II 
+7783 88006.93 Sony
+75 8 3.300 mAh con carga rápida Dash Charge
+Xperia M2 Aqua
+1919 97058.19 LG
+35 5 "4.8 Pulgadas. tipo de pantalla TFT. Multitáctil 480 x 1024 Pixels. Acelerómetro.sensor de giro en 6 ejes.Acer UI 4.2táctiles"
+L35 Dual Chip
+6310 90184.39 Samsung
+93 6 6.01 pulgadas Full Optic Display AMOLED con soporte para sRGB y DCI-P3. Cristal Corning Gorilla Glass 5
+Galaxy S5 Duos
+1814 40384.24 Samsung
+ 0 9 4 Pulgadas pantalla TN Multitáctil Resolución 480 x 800 Pixels
+Galaxy S3 Slim Dual
+6704 67618.94 LG
+98 8 6 u 8 GB LPDDR4X
+G2 Lite Dual
+2345 10500.99 LG
+54 5 Pantalla 6" 
+LG K75
+1001 10500.40 Samsung
+1015 Pantalla 5.5"
+J7 2015
+1251 19999.99 LG
+1519 pantalla 6"
+K9
+2612 10000.01 Samsung
+1015 Pantalla5"
+J3
