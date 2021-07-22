@@ -1,35 +1,3 @@
-{ TP01_EJ05_y_EJ06
-5. Realizar un prog para una tienda de celulares, que presente un menú con opciones para:
- a. Crear un archivo de registros no ordenados de celulares y cargarlo con datos
-    ingresados desde un archivo de texto denominado “celulares.txt”. Los registros
-    correspondientes a los celulares, deben contener:
-    * código de celular,
-    * el nombre,
-    * descripcion,
-    * marca,
-    * precio,
-    * stock mínimo
-    * y el stock disponible.
- b. Listar en pantalla los datos de aquellos celulares que tengan un stock menor al stock mínimo.
- c. Listar en pantalla los celulares del archivo cuya descripción contenga una
-    cadena de caracteres proporcionada por el usuario.
- d. Exportar el archivo creado en el inciso a) a un archivo de texto denominado
-    “celulares.txt” con todos los celulares del mismo.
- NOTA 1: El nom del archivo binario de celulares debe ser proporcionado x el usuario una única vez.
- NOTA 2: El arch de carga debe editarse de manera q c/celular se especifique en 3 líneas consec:
-        *  en la primera se especifica: código de celular, el precio y marca,
-        *  en la segunda el stock disponible, stock mínimo y la descripción
-        *  y en la 3ra nombre, en ese orden.
- Cada celular se carga leyendo tres líneas del archivo “celulares.txt”.
-
-6. Agregar al menú del programa del ejercicio 5, opciones para:
- a. Añadir uno o más celulares al final del archivo con sus datos ingresados por teclado.
- b. Modificar el stock de un celular dado.
- c. Exportar el contenido del archivo binario a un archivo de texto denominado:
-       ”SinStock.txt”, con aquellos celulares que tengan stock 0.
- NOTA: Las búsquedas deben realizarse por nombre de celular
-
-}
 program TP01_EJ05_y_EJ06;
 uses crt, sysutils;
 CONST
